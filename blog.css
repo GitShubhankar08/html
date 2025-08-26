@@ -1,11 +1,13 @@
 h1,h2{
+    background-color: beige;
     color: blue;
     text-align: center;
+    padding: px;
 }
 body{
     background-color: ;
+    
 }
 h1:hover{
     color: aqua;
-    text-align: end;
 }
