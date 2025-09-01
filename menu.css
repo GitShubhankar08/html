@@ -1,0 +1,69 @@
+h1{
+    background: burlywood;
+    margin: 0px;
+    padding-left: px;
+
+}
+body{
+    margin: 0px;
+    padding-left: 225px;
+    
+}
+
+.navbar{
+    margin: auto;
+    width: 200px;
+    height: 100vh;
+    color:  ;
+    background-color:grey;
+    position: fixed;
+    top: 0;
+    left: 0px;
+}
+.navbar a{
+    display: block;
+    color: ;
+    padding: 10px;
+    text-decoration: none;
+}
+.navbar a:hover{
+    background-color:burlywood;
+}
+.navbar a:visited{
+    
+}
+footer{
+    background-color: black;
+    text-align: center;
+    color: aliceblue;
+    padding: 25px;
+}
+.item-image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.item-image img{
+    height:80px;
+}
+
+.item{
+    background-color: greY;
+    
+}
+button{
+    display: block;
+    color: brown;
+    background-color: blanchedalmond;
+    border-radius:50px ;
+}
+button:hover{
+   
+    background-color: aquamarine;
+}
+.item{
+     display: inline-block; 
+    margin-right: 50px;
+}
