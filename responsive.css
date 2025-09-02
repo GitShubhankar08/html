@@ -1,0 +1,11 @@
+.first{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
+.second{
+    height: 70%;
+    width: 50%;
+    font-size: 2rem;
+    background-color: blue;
+}

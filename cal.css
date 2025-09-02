@@ -1,0 +1,39 @@
+.first{
+    background-color: yellow;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+}
+.calc{
+ background-color: black;
+ padding: 10px;
+ display: inline-block;
+ border-radius: 20px;
+}
+.op{
+    background-color: yellowgreen;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+}
+.first,.op{
+    display: inline-block;
+}
+.screen{
+    color: grey;
+    background-color: beige;
+    display: inline-block;
+    width: 265px;
+    height: 80px;
+    border-radius: 10px;
+    text-align: right;
+}
+.first:hover,.op:hover{
+    background-color: rgb(225, 136, 154);
+}

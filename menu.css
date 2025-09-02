@@ -29,9 +29,6 @@ body{
 .navbar a:hover{
     background-color:burlywood;
 }
-.navbar a:visited{
-    
-}
 footer{
     background-color: black;
     text-align: center;
@@ -66,4 +63,14 @@ button:hover{
 .item{
      display: inline-block; 
     margin-right: 50px;
+}
+.item{
+    
+    font-size: 1 rem ;
+}
+body{
+    position: absolute;
+}
+.navbar{
+    padding:10px;
 }
